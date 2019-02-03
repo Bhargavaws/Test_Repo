@@ -1,5 +1,5 @@
 Import java.io.*
-Class sample
+Class Sample
 {
 Public static void main (String[] args)
 {
